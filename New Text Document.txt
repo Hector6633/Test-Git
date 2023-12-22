@@ -2,9 +2,9 @@
 Prepare Interview
 ----------------------
 my name is [job seeker name] .
-
 my name is rajeev .
-
+Round-1
+----------
 questions
 Introduce yourself.
 What is your strength and weekness.
@@ -14,3 +14,12 @@ will you worked as any open  source projects.
 
 finished round 1.
 
+Round-2
+----------
+Performing programing task and coding activities.
+1.sort a array into ascending order.
+2.swapping a two function.
+3.Print even and odd numbers using python in single line.
+4.Create a web application and perform the crud operation.
+-----------
+finished round 2.
